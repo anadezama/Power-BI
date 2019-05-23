@@ -8,12 +8,10 @@ First thing you have to know is that the T-Mobile magenta-pink color is the star
 
 The GP Mobile / T-Mobile magenta-pink color code is: **EA0A8E** _in Hex Color Code_
 
-![bar](https://user-images.githubusercontent.com/47669890/58258523-897fb780-7d38-11e9-8355-e88f894cd8d2.PNG)
-
-
 ## Stacked bar/column chart
 
-![1](https://user-images.githubusercontent.com/47669890/58258358-360d6980-7d38-11e9-8377-5a9c964b9c2c.PNG)
+![1 1](https://user-images.githubusercontent.com/47669890/58278811-708bfc00-7d62-11e9-9aa7-607b0bc89da9.png)
+![2 2](https://user-images.githubusercontent.com/47669890/58278814-7255bf80-7d62-11e9-9c04-309a4b47faa6.png)
 
 ### Title
 * **Color:** SMALL: C8C8C8 (light gray) BIG: 00000 (Black)
@@ -34,4 +32,23 @@ The GP Mobile / T-Mobile magenta-pink color code is: **EA0A8E** _in Hex Color Co
 * **Position:** Left
 * **Font Family:** Segoe UI
 
+## Donut chart
+
+### Title
+* **Color:** 00000 (Black)
+* **Text size:** 20
+* **Alignment:** Center
+* **Font Family:** Segoe UI
+
+### Data Colors
+* **Magenta-pink:** EA0A8E
+* **Light pink:** FF55F0
+* **Dark gray:** 374649
+* Any other color related to pink or gray
+
+### Detail labels
+* **Color:** C8C8C8 
+* **Y Axis Text size:** 11
+* **LabelPosition:** Outside
+* **Font Family:** Segoe UI
 
