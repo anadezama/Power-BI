@@ -16,8 +16,8 @@ The GP Mobile / T-Mobile magenta-pink color code is: **EA0A8E** _in Hex Color Co
 ![1](https://user-images.githubusercontent.com/47669890/58258358-360d6980-7d38-11e9-8377-5a9c964b9c2c.PNG)
 
 ### Title
-* **Color:** C8C8C8 
-* **Text size:** SMALL: 11  BIG: **FALTA**
+* **Color:** SMALL: C8C8C8 (light gray) BIG: 00000 (Black)
+* **Text size:** SMALL: 11  BIG: 19
 * **Alignment:** Center
 * **Font Family:** Segoe UI
 
@@ -29,6 +29,9 @@ The GP Mobile / T-Mobile magenta-pink color code is: **EA0A8E** _in Hex Color Co
 
 ### Y / X Axis
 * **Color:** C8C8C8 
-* **Text size:** SMALL: 11  BIG: **FALTA**
-* **Alignment:** Center
+* **Y Axis Text size:** 11
+* **X Axis Text size:** 19
+* **Position:** Left
 * **Font Family:** Segoe UI
+
+
