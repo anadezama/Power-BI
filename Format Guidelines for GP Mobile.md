@@ -34,6 +34,8 @@ The GP Mobile / T-Mobile magenta-pink color code is: **EA0A8E** _in Hex Color Co
 
 ## Donut chart
 
+![3](https://user-images.githubusercontent.com/47669890/58279220-6e766d00-7d63-11e9-93a4-66b9bc3ffeda.PNG)
+
 ### Title
 * **Color:** 00000 (Black)
 * **Text size:** 20
