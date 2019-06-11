@@ -5,3 +5,5 @@ Make sure you [click on this link](https://docs.microsoft.com/en-us/power-bi/gui
 
 After that, you can also do the [Udemy Certification](UdemyCertification.md) to get your hands dirty with data.
 
+If you want to see an example of a project were PowerBI was used [click here](https://github.com/gpreports/Self-Audit/blob/master/PowerBI.md)
+
